@@ -1,0 +1,13 @@
+.card{
+    width: 100%;
+}
+.card-img{
+    border-radius: 50%;
+    max-width: 19.2rem;
+    float: center;
+    margin-top: 2%;
+    margin-left: 4%;
+}
+.text-card{
+    text-align: justify;
+}
