@@ -28,19 +28,19 @@ export default class Proyectos extends Component {
             data-action="https://github.com/cristalcabrera95/gdl-2019-01-bc-core-cipher"
           />
           <img
-            src="images/album-2.png"
-            alt="Album two"
-            data-action="http://passer.cc"
+            src="https://scontent.fgdl5-2.fna.fbcdn.net/v/t1.15752-9/68444342_366120224306544_2925779258733232128_n.png?_nc_cat=110&_nc_oc=AQl6TtHu5pT35OHWaw2czeknQwiaaHZsb1ER30kTOIb-PZLMrhuPNv_RvCGiPW7PcYa_ajxrNs3ABb1HCFQ-sVSx&_nc_ht=scontent.fgdl5-2.fna&oh=79a06705711e7540a4525a547076e832&oe=5DD8B3AD"
+            alt="Burguer Queen"
+            data-action="https://github.com/cristalcabrera95/GDL002-burger-queen"
           />
           <img
-            src="images/album-3.png"
-            alt="Album three"
-            data-action="https://doce.cc/"
+            src="https://scontent.fgdl5-2.fna.fbcdn.net/v/t1.15752-9/68410183_2091083660998205_7771786065626529792_n.png?_nc_cat=111&_nc_oc=AQmPd1JIBX7tBi7kgNlT0waLG5Vo9AEbqE41iRK_8yhtyXJra9y_UTv4QRmAtAFkSER7m8tqt3wut897Oa6VyUAL&_nc_ht=scontent.fgdl5-2.fna&oh=3180d4137a9af088999942b9cad428ca&oe=5DE767B8"
+            alt="Data Lovers (Pokedex)"
+            data-action="https://github.com/cristalcabrera95/GDL002-data-lovers"
           />
           <img
-            src="images/album-4.png"
-            alt="Album four"
-            data-action="http://tw.yahoo.com"
+            src="https://scontent.fgdl5-2.fna.fbcdn.net/v/t1.15752-9/68579909_645006319314663_6626797284011016192_n.png?_nc_cat=100&_nc_oc=AQlf1ENaN_SOj_tGJ-fG4NZED0zUU4Iby6iu7bL43vNcNwOqm_LdRyRLTxVYN37VfPXGxJ10i_O53Nr6o1y1uyOb&_nc_ht=scontent.fgdl5-2.fna&oh=13ba4d5660a1cd671f792cf0c5bef0fd&oe=5DD59CB4"
+            alt="Videogame"
+            data-action="https://github.com/cristalcabrera95/videogame"
           />
         </Coverflow>
       </StyleRoot>
