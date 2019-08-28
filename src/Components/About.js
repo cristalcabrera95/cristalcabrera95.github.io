@@ -7,7 +7,7 @@ class About extends Component {
       <div className="card mb-3 about" id='about'>
         <div className="row no-gutters">
           <div className="col-md-4">
-            <img src="https://lh3.googleusercontent.com/oxs0arIm3YzQVtEJ9qzENyFZX639OTV6wkxiki3BrPk80qCfVSwS46FSzNbMIyTgfKZggDf6yOD0_EvBi9t3F3tOqd9JjE-4SyIyAxQAv_jlTD0bV3TDT-RPZ8bFDsznDXKbWAM-TknF-27dJgVv8cQcv3xIgTR9nQ8m7JISgu2mZ_ZpTLy0HFlalPH1kJcI9J82z3x6Q3qKqGq8_5Tv5DlSziPHfzDXsrFFKugjoN0-4iRXWUXQ1EZSr8htQcKbzPyC6P0uMh7zzvmRorIv3BEFu2dfHW6DwFdCmmAKoSFaAjEpLIu6N2qx4VMulz2vQQzUfHlOgq25watj7EWPaHklfEVlLX5hwZXah39RZy5AQpOFLSSpOfHgnqIHhzg4cG5lX0wRKy_NO64ZA0vjR2TCTzVlVL6lGniEzCLFqh4gzDa-6KUkQsbHTf55R76uT-w1R5CVqmYEnNCuizJCfDlrSJDwYMVyeIzdtYewAQha9j5-QZ9YQ1s8j13ZSALEJyraGfOL-3Y950drxz-qhHLK9H7BU0LsmV41RC-VRe8H7FkyayNnN6M303oeEnWBYI1U33j4UeLlt-qFMjZwTNx6DEFkBjOtrM-4RZSizs5XxxQGPULMj1k3CVQGBU3KUGWcF6ybJYUs4jYVR0WBHD38=s200-no" 
+            <img src="https://scontent.fgdl5-2.fna.fbcdn.net/v/t1.15752-9/69449953_944567479260120_6373345392653762560_n.jpg?_nc_cat=108&_nc_oc=AQlj6Ui5nNwpvY6fpA4mb-HFEtLEfACiYnFInIYBHHuHAthsxqSqSk9mvq93rTgUXyI&_nc_ht=scontent.fgdl5-2.fna&oh=02dc47142e3b786419a4f907b11ca387&oe=5DD331EC" 
             className="card-img" alt="..." />
           </div>
           <div className="col-md-8">
